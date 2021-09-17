@@ -40,14 +40,25 @@ body {
     width: 100%;
 }
 
-.headertxt {
+.mainheader {
+  background-color: #D56F11
+}
+
+.mainheadertitle {
   font-size: 48px;
   font-family: 'Poppins';
   color: #95e6b9;
   text-align: center
 }
 
-.maintxt {
+
+.mainheadertext {
+  font-size: 16px;
+  font-family: 'Work Sans';
+  color: 
+}
+
+.text {
   font-family: 'Work Sans';
   color: white;
   text-align: justify
