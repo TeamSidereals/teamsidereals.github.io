@@ -16,8 +16,7 @@ body {
 
 #navbar a {
     font-family: 'Work Sans';
-    float: none;
-    position: absolute;
+    float: left;
     display: block;
     color: white;
     text-align: center;
