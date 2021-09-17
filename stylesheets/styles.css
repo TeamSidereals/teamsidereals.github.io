@@ -9,7 +9,8 @@ body {
 #navbar {
   overflow: hidden;
   background-color: #7F6E7F;
-  border-bottom: 2px solid #E7BE17
+  border-bottom: 2px solid #E7BE17;
+  align-content: center
 }
 
 #navbar a {
