@@ -35,6 +35,11 @@ body {
     background-color: #E7BE17;
 }
 
+.separator {
+    width: 100px;
+    margin: auto
+}
+
 .sticky {
     position: fixed;
     top: 0;
@@ -55,7 +60,8 @@ body {
 .mainheadertext {
   font-size: 16px;
   font-family: 'Work Sans';
-  color: white
+  color: white;
+  text-align: center
 }
 
 .text {
