@@ -26,7 +26,6 @@ body {
     height: 20px;
     text-decoration: none;
     transition: 0.3s;
-    left: 50%;
 }
 
 #navbar a.active {
