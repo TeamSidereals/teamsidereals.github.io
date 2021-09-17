@@ -36,6 +36,8 @@ body {
 }
 
 .separator {
+    color: #E7BE17; 
+    style: none;
     width: 100px;
     margin: auto
 }
