@@ -47,15 +47,14 @@ body {
 .mainheadertitle {
   font-size: 48px;
   font-family: 'Poppins';
-  color: #95e6b9;
+  color: white;
   text-align: center
 }
-
 
 .mainheadertext {
   font-size: 16px;
   font-family: 'Work Sans';
-  color: 
+  color: white
 }
 
 .text {
