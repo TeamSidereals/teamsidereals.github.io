@@ -16,9 +16,8 @@ body {
 
 #navbar a {
     font-family: 'Work Sans';
-    float: left;
+    float: center;
     display: block;
-    margin: auto;
     color: white;
     text-align: center;
     padding: 15px;
@@ -51,10 +50,7 @@ body {
 }
 
 .mainheader {
-  background-image: url('../assets/lodestar-header-bg.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  /* background-color: #D56F11 */
+  background-color: #D56F11
 }
 
 .mainheadertitle {
