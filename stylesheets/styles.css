@@ -10,8 +10,7 @@ body {
   overflow: hidden;
   background-color: #D56F11;
   border-bottom: 2px solid #E7BE17;
-  margin: auto;
-  padding: 10px
+  margin: auto
 }
 
 #navbar a {
@@ -47,6 +46,7 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
+    margin: auto
 }
 
 .mainheader {
