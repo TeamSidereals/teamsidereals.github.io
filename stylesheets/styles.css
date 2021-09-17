@@ -8,7 +8,7 @@ body {
 
 #navbar {
   overflow: hidden;
-  background-color: #7F6E7F;
+  background-color: #D56F11;
   border-bottom: 2px solid #E7BE17;
   margin: 0 auto
 }
@@ -27,12 +27,12 @@ body {
 }
 
 #navbar a.active {
-    background-color: #D56F11;
+    background-color: #E7BE17;
 }
 
 #navbar a:hover {
     color: white;
-    background-color: #D56F11;
+    background-color: #E7BE17;
 }
 
 .sticky {
