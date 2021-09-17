@@ -11,6 +11,7 @@ body {
     background-color: #D56F11;
     border-bottom: 2px solid #E7BE17;
     display: block;
+    margin: auto
 }
 
 #navbar a {
