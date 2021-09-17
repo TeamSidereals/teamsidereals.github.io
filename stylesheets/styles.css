@@ -1,4 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 body {
-  background-color: green;
+  background-color: #382C38;
   margin: 0
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #2f5240;
+  border-bottom: 2px solid #139113
+}
+
+#navbar a {
+    font-family: 'Work Sans';
+    float: left;
+    display: block;
+    color: #16d620;
+    text-align: center;
+    padding: 15px;
+    width: 80px;
+    height: 20px;
+    text-decoration: none;
+    transition: 0.3s
+}
+
+#navbar a.active {
+      background-color: #345c47;
+}
+
+#navbar a:hover {
+    color: #e4ff83;
+    background-color: #139113;
+    border-bottom: 1px solid #e4ff83;
+    padding-bottom: 1px
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.headertxt {
+  font-size: 48px;
+  font-family: 'Poppins';
+  color: #95e6b9;
+  text-align: center
+}
+
+.maintxt {
+  font-family: 'Work Sans';
+  color: white;
+  text-align: justify
 }
