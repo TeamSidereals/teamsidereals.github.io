@@ -51,7 +51,10 @@ body {
 }
 
 .mainheader {
-  background-color: #D56F11
+  background-image: url('../assets/lodestar-header-bg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /* background-color: #D56F11 */
 }
 
 .mainheadertitle {
