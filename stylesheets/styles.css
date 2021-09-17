@@ -9,14 +9,14 @@ body {
 #navbar {
   overflow: hidden;
   background-color: #7F6E7F;
-  border-bottom: 2px solid #139113
+  border-bottom: 2px solid #E7BE17
 }
 
 #navbar a {
     font-family: 'Work Sans';
     float: left;
     display: block;
-    color: #16d620;
+    color: white;
     text-align: center;
     padding: 15px;
     width: 80px;
@@ -26,12 +26,12 @@ body {
 }
 
 #navbar a.active {
-      background-color: #345c47;
+    background-color: #D56F11;
 }
 
 #navbar a:hover {
-    color: #e4ff83;
-    background-color: #139113;
+    color: white;
+    background-color: #D56F11;
 }
 
 .sticky {
