@@ -6,22 +6,18 @@ body {
   margin: 0
 }
 
-.navbar-container {
-    margin: auto
-}
-
 #navbar {
     overflow: hidden;
     background-color: #D56F11;
     border-bottom: 2px solid #E7BE17;
     display: block;
-    margin: auto
 }
 
 #navbar a {
     font-family: 'Work Sans';
     float: left;
     display: block;
+    margin: auto;
     color: white;
     text-align: center;
     padding: 15px;
