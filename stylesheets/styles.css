@@ -10,7 +10,8 @@ body {
   overflow: hidden;
   background-color: #D56F11;
   border-bottom: 2px solid #E7BE17;
-  margin: 0 auto
+  margin: auto;
+  padding: 10px
 }
 
 #navbar a {
