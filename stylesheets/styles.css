@@ -8,16 +8,17 @@ body {
 
 .navbar-container {
     width: 60%;
+    background-color: #D56F11;
     display: block;
     margin: auto;
     left: 50%;
-    right: 50%
+    border-bottom: 2px solid #E7BE17;
 }
 
 #navbar {
     overflow: hidden;
     background-color: #D56F11;
-    border-bottom: 2px solid #E7BE17;
+    /* border-bottom: 2px solid #E7BE17; */
     display: block;
     margin: auto
 }
