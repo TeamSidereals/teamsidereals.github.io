@@ -8,6 +8,7 @@ body {
 
 .navbar-container {
     width: 60%;
+    height: 40px;
     background-color: #D56F11;
     display: block;
     margin: auto;
