@@ -12,11 +12,11 @@ body {
     background-color: #D56F11;
     display: block;
     margin: auto;
-    left: 50%;
     border-bottom: 2px solid #E7BE17;
 }
 
 #navbar {
+    left: 50%;
     overflow: hidden;
     background-color: #D56F11;
     /* border-bottom: 2px solid #E7BE17; */
