@@ -6,20 +6,10 @@ body {
   margin: 0
 }
 
-.navbar-container {
-    width: 60%;
-    height: 40px;
-    background-color: #D56F11;
-    display: block;
-    margin: auto;
-    border-bottom: 2px solid #E7BE17;
-}
-
 #navbar {
-    left: 50%;
     overflow: hidden;
     background-color: #D56F11;
-    /* border-bottom: 2px solid #E7BE17; */
+    border-bottom: 2px solid #E7BE17;
     display: block;
     margin: auto
 }
