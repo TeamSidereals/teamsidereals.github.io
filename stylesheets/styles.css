@@ -6,6 +6,14 @@ body {
   margin: 0
 }
 
+.navbar-container {
+    width: 50%;
+    display: block;
+    margin: auto;
+    left: 50%;
+    right: 50%
+}
+
 #navbar {
     overflow: hidden;
     background-color: #D56F11;
